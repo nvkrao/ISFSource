@@ -1,0 +1,58 @@
+
+Keystore type: jks
+Keystore provider: SUN
+
+Your keystore contains 3 entries
+
+Alias name: idp
+Creation date: Nov 5, 2013
+Entry type: keyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=University of Southern California, OU=Inscriptifact Project, O=University of Southern California, L=Los Angeles, ST=California, C=US
+Issuer: CN=University of Southern California, OU=Inscriptifact Project, O=University of Southern California, L=Los Angeles, ST=California, C=US
+Serial number: 52793241
+Valid from: Tue Nov 05 10:00:33 PST 2013 until: Mon Feb 03 10:00:33 PST 2014
+Certificate fingerprints:
+	 MD5:  FA:88:0A:34:08:12:65:E3:21:F9:5E:B6:34:CF:03:62
+	 SHA1: 4B:9E:FF:AA:33:44:D2:33:C2:E1:33:ED:02:AC:33:69:64:A7:E8:83
+
+
+*******************************************
+*******************************************
+
+
+Alias name: secondaryintermediate
+Creation date: Nov 6, 2013
+Entry type: trustedCertEntry
+
+Owner: CN=VeriSign Class 3 Code Signing 2010 CA, OU=Terms of use at https://www.verisign.com/rpa (c)10, OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+Issuer: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+Serial number: 5200e5aa2556fc1a86ed96c9d44b33c7
+Valid from: Sun Feb 07 16:00:00 PST 2010 until: Fri Feb 07 15:59:59 PST 2020
+Certificate fingerprints:
+	 MD5:  4D:F6:E0:FC:40:0C:AE:9C:05:2F:AE:98:C6:6D:37:9F
+	 SHA1: 49:58:47:A9:31:87:CF:B8:C7:1F:84:0C:B7:B4:14:97:AD:95:C6:4F
+
+
+*******************************************
+*******************************************
+
+
+Alias name: primaryintermediate
+Creation date: Nov 6, 2013
+Entry type: trustedCertEntry
+
+Owner: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+Issuer: OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+Serial number: 250ce8e030612e9f2b89f7054d7cf8fd
+Valid from: Tue Nov 07 16:00:00 PST 2006 until: Sun Nov 07 15:59:59 PST 2021
+Certificate fingerprints:
+	 MD5:  F9:1F:FE:E6:A3:6B:99:88:41:D4:67:DD:E5:F8:97:7A
+	 SHA1: 32:F3:08:82:62:2B:87:CF:88:56:C6:3D:B8:73:DF:08:53:B4:DD:27
+
+
+*******************************************
+*******************************************
+
+
